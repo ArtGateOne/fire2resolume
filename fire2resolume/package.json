@@ -1,0 +1,21 @@
+{
+  "name": "fire2resolume",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "fire2resolume.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "ArtGateOne",
+  "license": "ISC",
+  "dependencies": {
+    "easymidi": "^3.1.0"
+  }
+}
