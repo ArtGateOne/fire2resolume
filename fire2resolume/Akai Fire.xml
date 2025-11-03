@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MidiShortcutPreset presetId="1244387768" name="Akai Fire">
+	<versionInfo name="Resolume Arena" majorVersion="7" minorVersion="23" microVersion="2" revision="51094"/>
+	<ShortcutManager name="MIDIShortcutManagerShortcuts">
+		<Shortcut name="Shortcut" uniqueId="1762054896442" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/10/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/10/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/10/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/10/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224785296" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595629" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/6/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/6/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/6/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/6/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224788368" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896486" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/16/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/16/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/16/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/16/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224786832" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896428" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/11/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/11/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/11/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/11/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224781456" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595657" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/1/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/1/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/1/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/1/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224791184" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.74803149606299212948"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896528" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/11/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/11/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/11/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/11/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224789648" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896465" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/13/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/13/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/13/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/13/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224786064" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595499" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/6/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/6/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/6/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/6/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224780176" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762122724707" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/connectprevcolumn" translationType="1" allowedTranslationTypes="1"/>
+			<ShortcutPath name="OutputPath" path="/composition/connectprevcolumn" translationType="1" allowedTranslationTypes="1"/>
+			<RawInputMessage key="98722966224773776" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Off" second="0.0078740157480314959537"/>
+				<Value first="On" second="1"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896397" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/13/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/13/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/13/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/13/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224781968" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054881253" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clear" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clear" translationType="1" allowedTranslationTypes="11"/>
+			<RawInputMessage key="98722966224774544" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Off" second="0.0078740157480314959537"/>
+				<Value first="On" second="1"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595664" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/2/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/2/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/2/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/2/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224791440" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.74803149606299212948"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896493" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/16/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/16/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/16/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/16/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224790928" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762137106166" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/disconnectall" translationType="1" allowedTranslationTypes="1"/>
+			<ShortcutPath name="OutputPath" path="/composition/disconnectall" translationType="1" allowedTranslationTypes="1"/>
+			<RawInputMessage key="98722966224774288" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Off" second="0.0078740157480314959537"/>
+				<Value first="On" second="1"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595524" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/9/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/9/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/9/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/9/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224780944" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595699" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/7/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/7/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/7/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/7/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224792720" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054881261" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clear" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clear" translationType="1" allowedTranslationTypes="11"/>
+			<RawInputMessage key="98722966224775056" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Off" second="0.0078740157480314959537"/>
+				<Value first="On" second="1"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896500" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/15/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/15/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/15/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/15/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224790672" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595538" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/2/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/2/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/2/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/2/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224783248" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25196850393700787052"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595636" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/7/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/7/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/7/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/7/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224788624" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595460" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/2/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/2/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/2/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/2/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224779152" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.50393700787401574104"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896556" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/12/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/12/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/12/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/12/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224794000" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896542" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/10/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/10/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/10/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/10/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224793488" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595573" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/7/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/7/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/7/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/7/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224784528" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595713" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/9/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/9/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/9/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/9/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224793232" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595608" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/3/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/3/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/3/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/3/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224787600" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595566" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/6/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/6/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/6/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/6/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224784272" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896549" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/11/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/11/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/11/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/11/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224793744" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595615" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/4/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/4/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/4/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/4/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224787856" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054881257" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clear" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clear" translationType="1" allowedTranslationTypes="11"/>
+			<RawInputMessage key="98722966224774800" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Off" second="0.0078740157480314959537"/>
+				<Value first="On" second="1"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896386" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/16/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/16/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/16/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/16/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224782736" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595468" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/4/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/4/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/4/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/4/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224779664" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896507" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/14/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/14/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/14/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/14/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224790416" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595464" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/3/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/3/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/3/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/3/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224779408" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595594" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/1/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/1/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/1/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/1/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224787088" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595601" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/2/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/2/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/2/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/2/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224787344" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896584" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/16/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/16/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/16/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/16/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224795024" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896563" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/13/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/13/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/13/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/13/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224794256" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896535" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/10/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/10/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/10/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/10/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224789392" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896435" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/10/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/10/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/10/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/10/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224781200" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896451" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/11/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/11/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/11/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/11/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224785552" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896472" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/14/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/14/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/14/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/14/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224786320" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762122724697" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/connectnextcolumn" translationType="1" allowedTranslationTypes="1"/>
+			<ShortcutPath name="OutputPath" path="/composition/connectnextcolumn" translationType="1" allowedTranslationTypes="1"/>
+			<RawInputMessage key="98722966224774032" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Off" second="0.0078740157480314959537"/>
+				<Value first="On" second="1"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595587" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/9/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/9/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/9/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/9/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224785040" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595678" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/4/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/4/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/4/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/4/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224791952" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.74803149606299212948"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595706" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/8/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/8/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/8/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/8/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224792976" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896393" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/14/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/14/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/14/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/14/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224782224" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595559" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/5/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/5/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/5/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/5/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224784016" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896514" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/13/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/13/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/13/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/13/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224790160" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595456" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/1/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/1/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/1/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/1/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224778896" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.50393700787401574104"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896577" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/15/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/15/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/15/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/15/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224794768" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896421" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/12/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/12/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/12/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/12/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224781712" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595517" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/8/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/8/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/8/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/8/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224780688" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.50393700787401574104"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595531" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/1/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/1/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/1/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/1/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224782992" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.74803149606299212948"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25196850393700787052"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.50393700787401574104"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896479" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/15/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/15/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/15/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/15/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224786576" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595510" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/7/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/7/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/7/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/7/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224780432" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595580" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/8/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/8/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/8/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/8/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224784784" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595650" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/9/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/9/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/9/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/9/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224789136" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595622" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/5/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/5/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/5/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/5/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224788112" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595685" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/5/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/5/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/5/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/5/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224792208" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595552" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/4/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/4/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/4/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/4/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224783760" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595545" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/3/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/3/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/3/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/3/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224783504" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595671" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/3/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/3/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/3/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/3/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224791696" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.74803149606299212948"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595492" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/5/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/5/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/5/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/5/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224779920" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896458" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/clips/12/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/clips/12/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/3/clips/12/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/3/clips/12/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224785808" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896389" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/columns/15/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="OutputPath" path="/composition/columns/15/connect" translationType="1" allowedTranslationTypes="35"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/columns/15/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/columns/15/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224782480" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="1"/>
+				<Value first="Disconnected" second="0.5"/>
+				<Value first="Empty" second="0"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595643" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/8/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/8/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/8/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/8/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224788880" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25196850393700787052"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896570" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/14/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/14/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/14/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/14/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224794512" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762044595692" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/clips/6/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/clips/6/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/1/clips/6/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/1/clips/6/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224792464" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1762054896521" paramNodeName="ParamEvent" behaviour="1028" inputDeviceName="FL STUDIO FIRE" outputDeviceName="resolume2fire">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/clips/12/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/clips/12/connect" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="InputSiblingPath" path="/composition/layers/2/clips/12/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<ShortcutPath name="OutputSiblingPath" path="/composition/layers/2/clips/12/connected" translationType="1" allowedTranslationTypes="-1"/>
+			<RawInputMessage key="98722966224789904" value="0" numSteps="128"/>
+			<NamedValues>
+				<Value first="Connected" second="0.75"/>
+				<Value first="Connected &amp; previewing" second="1"/>
+				<Value first="Disconnected" second="0.25"/>
+				<Value first="Empty" second="0"/>
+				<Value first="Previewing" second="0.5"/>
+			</NamedValues>
+		</Shortcut>
+	</ShortcutManager>
+</MidiShortcutPreset>
+
